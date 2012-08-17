@@ -1,0 +1,19 @@
+C:\Users\mark\Documents\GitHub\PMI-CD-Image-Extraction-Utility\bin\Debug\P3H PMI Tool.exe.config
+C:\Users\mark\Documents\GitHub\PMI-CD-Image-Extraction-Utility\bin\Debug\P3H PMI Tool.exe.manifest
+C:\Users\mark\Documents\GitHub\PMI-CD-Image-Extraction-Utility\bin\Debug\P3H PMI Tool.application
+C:\Users\mark\Documents\GitHub\PMI-CD-Image-Extraction-Utility\bin\Debug\P3H PMI Tool.exe
+C:\Users\mark\Documents\GitHub\PMI-CD-Image-Extraction-Utility\bin\Debug\P3H PMI Tool.pdb
+C:\Users\mark\Documents\GitHub\PMI-CD-Image-Extraction-Utility\bin\Debug\P3H PMI Tool.xml
+C:\Users\mark\Documents\GitHub\PMI-CD-Image-Extraction-Utility\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mark\Documents\GitHub\PMI-CD-Image-Extraction-Utility\obj\Debug\pin3hot_Audio_File_Extractor.p3hAEAbout.resources
+C:\Users\mark\Documents\GitHub\PMI-CD-Image-Extraction-Utility\obj\Debug\pin3hot_Audio_File_Extractor.p3hAE.resources
+C:\Users\mark\Documents\GitHub\PMI-CD-Image-Extraction-Utility\obj\Debug\pin3hot_Audio_File_Extractor.Resources.resources
+C:\Users\mark\Documents\GitHub\PMI-CD-Image-Extraction-Utility\obj\Debug\pin3hot_Audio_File_Extractor.p3hSplash.resources
+C:\Users\mark\Documents\GitHub\PMI-CD-Image-Extraction-Utility\obj\Debug\ResGen.read.1.tlog
+C:\Users\mark\Documents\GitHub\PMI-CD-Image-Extraction-Utility\obj\Debug\ResGen.write.1.tlog
+C:\Users\mark\Documents\GitHub\PMI-CD-Image-Extraction-Utility\obj\Debug\P3H PMI Tool.TrustInfo.xml
+C:\Users\mark\Documents\GitHub\PMI-CD-Image-Extraction-Utility\obj\Debug\P3H PMI Tool.exe.manifest
+C:\Users\mark\Documents\GitHub\PMI-CD-Image-Extraction-Utility\obj\Debug\P3H PMI Tool.application
+C:\Users\mark\Documents\GitHub\PMI-CD-Image-Extraction-Utility\obj\Debug\P3H PMI Tool.exe
+C:\Users\mark\Documents\GitHub\PMI-CD-Image-Extraction-Utility\obj\Debug\P3H PMI Tool.xml
+C:\Users\mark\Documents\GitHub\PMI-CD-Image-Extraction-Utility\obj\Debug\P3H PMI Tool.pdb
